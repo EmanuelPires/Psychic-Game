@@ -1,2 +1,2 @@
-# Psychic-Game
-The Psychic Game
+# Word-Guess-Game
+Javascript Battle!
