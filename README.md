@@ -1,2 +1,2 @@
-# Word-Guess-Game
+This is the psychic game!
 Javascript Battle!
